@@ -39,9 +39,17 @@ body{
 .libray{
     
 
+    background-color: #121212;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
     color: #b3b3b3;
     margin-right: 10px;
     padding: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 10px;
 }
 .library .library_content .fa-plus{
     margin: 24px 10px;
