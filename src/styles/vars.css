@@ -1,0 +1,8 @@
+:root{
+    /*FONT*/
+    --font-dm-sans:"DM Sans", sans-serif;
+    /*COLORS*/
+    /* COLORS */
+    --bg-icon:#131313;
+    --bg-arrow-color:rgba(0,0,0,7)
+}/*Aqui seria as variáveis CSS para usar em todo o arquivo sem precisar mudar em cada ponto*/
