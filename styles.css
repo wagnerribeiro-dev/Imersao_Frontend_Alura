@@ -10,7 +10,6 @@ body{
     width: 300px;
 }
 .sidebar_navigation{
-.sidebar__navigation{
     background-color: #121212;
     border-radius: 8px;/*aqui seria para dar bordas arrendodas*/
     padding: 16px 0 0 16px;/*aqui seria aposisão em relaçã a ele mesmo, só ler sentido horário*/
@@ -80,8 +79,6 @@ body{
     padding-right: 8px;
 }
 .library .library_content .fa-plus{
-
-.library .library__content .fa-plus{
     margin: 24px 10px;
 }
 .section_playlist{
@@ -99,13 +96,11 @@ body{
     border-radius: 10px;
 }
 .section_playlist .section_playlist_content{
-.section-playlist .section-playlist__content{
     display: flex;
     flex-direction: column;
 }
 .section_playlist_content .text{
     padding: 14px;
-.section-playlist_content .text{
     padding-bottom: 14px;
     color: #FFF;
     font-family: "DM Sans", sans-serif;
