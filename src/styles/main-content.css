@@ -26,7 +26,8 @@
     margin-right: 1.25rem;
 }
 
-.arrow_left .arrow-right{
+.arrow_left,
+.arrow-right{
     display: flex;
     align-items: center;
     justify-content: center;

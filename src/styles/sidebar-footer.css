@@ -63,7 +63,7 @@ body{
     justify-content: space-between;
 }
 
-.library .library_button{
+.library .library_botton{
     display:flex;
     margin-right: 10px;
     color:#b3b3b3;
@@ -103,7 +103,7 @@ body{
     border-radius:10px;
 }
 
-.section_playlist .ection_playlist_content{
+.section_playlist .section_playlist_content{
     display:flex;
     flex-direction: column;
 }
@@ -122,7 +122,7 @@ body{
     font-size: 12px;
 }
 
-.section_playlist_content .section_playlist_button{
+.section_playlist_content .section_playlist_botton{
     display: flex;
     justify-content: center;
     background-color: #FFF;
@@ -195,7 +195,7 @@ body{
     font-weight: 500;
 }
 
-.disclaimer_premium .button{
+.disclaimer_premium button{
     background-color: #ffffff;
     color: #000000;
     font-size: 16px;
